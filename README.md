@@ -11,3 +11,5 @@ We saved 2 models, 3 block CNN model and Transfer Learning model, but they could
 [Transfer Learning Model.h5](https://drive.google.com/file/d/1NbA4lh6CkkRz8jWrUi6xyFcZC9_LW6a9/view?usp=sharing) - This model has an accuracy of about 97%.
 
 Feel free to download and clone the repositry. In case something isn't clear feel free to contact me at **shauryaluthra689@gmail.com**
+
+**Note:** The links for downloading the dataset is provided as a comment in the file
